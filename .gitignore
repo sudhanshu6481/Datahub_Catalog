@@ -1,0 +1,5 @@
+.env
+*.log
+postgres-data/
+datahub-data/
+__pycache__/
